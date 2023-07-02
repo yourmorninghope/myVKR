@@ -5,10 +5,10 @@
 
 ## Технологии
 В моем проекте используются:
-    Frontend: React, MobX, SCSS, MaterialUI
-    Backend: Node.js, Express
-    СУБД: MongoDB, mongoose ODM
-    Доп. технологии: Axios, JWT
+    * Frontend: React, MobX, SCSS, MaterialUI
+    * Backend: Node.js, Express
+    * СУБД: MongoDB, mongoose ODM
+    * Доп. технологии: Axios, JWT
 
 ## Функционал приложения
 ### Разрботано
