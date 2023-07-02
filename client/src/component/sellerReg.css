@@ -1,0 +1,75 @@
+.form-block_seller{
+    /* border: 1px solid black; */
+    
+    display: flex;
+    flex-direction: row;
+    width: 70%;
+    justify-self: flex-end;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.column-seller{
+    /* border: 1px solid black; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.form-inputs{
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    /* justify-content: space-around; */
+    width: 37%;
+    /* border: 1px solid rgb(177, 0, 0); */
+    height: 50vh;
+}
+
+.form-seller-input{
+    margin: 0 !important;
+    /* height: 30vh; */
+    /* border: 1px solid red !important; */
+}
+
+.form-inputs_2{
+    display: flex;
+    flex-direction: column;
+    max-height: 60vh;
+    flex-wrap: wrap;
+    width: 60%;
+
+    /* border: 1px solid black; */
+}
+
+.form-title_3{
+    margin-top: 25px !important;
+}
+
+.categories-button{
+    /* border-radius: 10px !important; */
+    margin: 5px !important;
+    width: 100%;
+}
+
+.Mui-selected{
+    box-sizing: border-box;
+    background-color: rgb(255, 255, 255) !important;
+    color: rgb(116, 0, 231) !important;
+    border: 1px solid rgb(110, 0, 212) !important;
+}
+
+.form-title{
+    /* font-kerning: 6em !important; */
+    font-size: 20px !important;
+    /* margin-bottom: 20px !important; */
+}
+
+.form-title_2{
+    margin-bottom: 20px !important; 
+}
+/* .button-seller-reg{
+    width: 20vw !important;
+} */

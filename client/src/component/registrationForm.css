@@ -1,0 +1,74 @@
+.column{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.login, .password, .registration-submit{
+    flex: 1 1 auto;
+}
+
+.form-block{
+    margin-bottom: 15px;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+}
+
+.form-block_0{
+    width: 100%;
+    text-align: start;
+    padding: 30px;
+    height: 17%;
+}
+
+.form-block_2{
+    flex: 0.5;
+}
+
+.form-block_1{
+    border-bottom: 3px solid black;
+    margin-bottom: 40px;
+    padding: 20px;
+    font-size: 26px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.form-block_3{
+    text-align: center;
+}
+
+.MuiButton-contained{
+    height: 50px;
+    margin-bottom: 30px;
+    background: linear-gradient(121deg, rgba(105,252,255,1) 0%, rgba(255,91,210,1) 44%, rgba(255,240,70,1) 91%);
+}
+
+.MuiOutlinedInput-notchedOutline{
+    border-style: none;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.161);
+}
+
+.Mui-selected{
+    border: 1px solid rgb(144, 25, 255) !important;
+}
+
+#login :-internal-autofill-selected{
+    background-color: white;
+}
+
+
+p{
+    margin-top: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: #b58cf7;
+}
+
+a:active{
+    color:rgba(0, 0, 0, 0.161);
+}

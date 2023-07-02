@@ -1,0 +1,35 @@
+.itemCart-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    box-shadow: 0px 5px 5px #8f5a9460;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.itemCart-block{
+    /* border: 1px solid black; */
+}
+
+.itemCart-block_1{
+    justify-self: flex-start ;
+    flex: 2;
+}
+
+.itemCart-block_2{
+    flex: 1;
+}
+
+.itemCart-block_image{
+    width: 20%;
+    margin-right: 2%;
+}
+
+.itemCart-image{
+    width: 100%;
+}
+
+.cartPrice{
+    margin: 0;
+}

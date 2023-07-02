@@ -1,0 +1,16 @@
+.cartContainer{
+    display: flex;
+    justify-content: space-around;
+}
+
+.cartColumn-left{
+    width: 50%;
+}
+
+.cartColumn-right{
+    width: 40%;
+    background-color: aliceblue;
+
+    display: flex;
+    flex-direction: column;
+}

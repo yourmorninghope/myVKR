@@ -1,0 +1,13 @@
+.column_right {
+    display: flex;
+    justify-content: center;
+}
+
+.imageBox{
+  display: flex;
+  justify-content: center;
+}
+
+.regImage{
+  width: 90%;
+}
